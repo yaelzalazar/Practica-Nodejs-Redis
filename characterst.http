@@ -1,0 +1,4 @@
+GET http://locahost:3000/character
+###
+
+GET http://locahost:3000/character/101010101
